@@ -35,8 +35,8 @@ public class MathApp {
         int hoursInDay = 24;
         int minutesInHour = 60;
 
-        int totalMinutes = days * hoursInDay * minutesInHour;
-        System.out.println("The total minutes is " + totalMinutes);
+        int totalMinutes = days * hoursInDay * minutesInHour;// calculate total minutes
+        System.out.println("The total minutes is " + totalMinutes);// print
 
 
 
